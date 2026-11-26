@@ -1,12 +1,12 @@
 // Algorithm: Insert(LA, N, K, ITEM)
 
 // Step 1: Set J := N
-// Step 2: Repeat Steps 3 and 4 while J >= K
-// Step 3: Set LA[J + 1] := LA[J]
-// Step 4: Set J := J - 1
-// Step 5: Set LA[K] := ITEM
-// Step 6: Set N := N + 1
-// Step 7: Exit
+// Step 2: Repeat Steps 3 and 4 while J >= K.
+// Step 3: Set LA[J + 1] := LA[J].
+// Step 4: Set J := J - 1.
+// Step 5: Set LA[K] := ITEM.
+// Step 6: Set N := N + 1.
+// Step 7: Exit.
 
 
 
